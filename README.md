@@ -8,7 +8,7 @@ O painel foi projetado para ser altamente interativo, permitindo que os usuário
 
 ## Imagem do Painel
 
-A imagem abaixo demonstra o layout e a funcionalidade do painel final (você pode incluir a imagem `image_0.png` no seu repositório).
+A imagem abaixo demonstra o layout e a funcionalidade do painel final.
 
 ![Dashboard de Vendas Globais](Dashboard.png)
 
